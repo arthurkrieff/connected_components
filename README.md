@@ -8,9 +8,9 @@ We applied the algorithms on several graphs datasets of different sizes (collect
 - Email EU Communication Network
 
 # Methods
-We applied the two following methods:
-- RDD method
-- Dataframe method
+We applied the algorithms using:
+- an RDD method
+- a Dataframe method
 
 # Credits
 This project was made with the contribution of Aicha BOKBOT, Delong LI and Arthur KRIEFF.
