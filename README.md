@@ -12,5 +12,8 @@ We applied the algorithm using:
 - Spark RDDs
 - Spark Dataframes
 
+# Sources
+- Fast and Scalable Connected Component Computation in MapReduce: https://www.cse.unr.edu/~hkardes/pdfs/ccf.pdf
+
 # Credits
 This project was made with the contribution of Aicha BOKBOT, Delong LI and Arthur KRIEFF.
